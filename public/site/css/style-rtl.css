@@ -1,0 +1,28 @@
+
+/*------------------------------------
+	Fonts
+------------------------------------*/
+
+@font-face{
+    font-family: 'Droid Arabic Kufi', sans-serif;
+    src: url(../fonts/DroidKufi-Regular.otf);
+    src: url(../fonts/DroidKufi-Regular.ttf);
+}
+html,
+/*body {*/
+/*    height: 100%;*/
+/*    font-family: 'Droid Arabic Kufi', sans-serif ;*/
+/*}*/
+/*h1, h2, h3, h4, h5, h6{*/
+/*    font-family: 'Droid Arabic Kufi', sans-serif ;*/
+
+/*}*/
+.clinet-area,.screen-area{
+    direction: ltr;
+}
+.main-menu,.logo{
+    text-align: right;
+}
+.menu-area{
+    display: block;
+}

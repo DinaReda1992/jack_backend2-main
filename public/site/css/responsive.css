@@ -1,0 +1,44 @@
+@media all and (min-width:992px){.dropdown-menu .dropdown-toggle::after{border-top:.3em solid transparent;border-right:0;border-bottom:.3em solid transparent;border-left:.3em solid}.megasubmenu{right:100%;top:0;min-height:100%;min-width:768px}.dropdown-menu>li:hover .megasubmenu{display:block}}@media all and (max-width:992px){.navbar>.container-fluid{display:block}.dropdown-menu>li .megasubmenu{position:relative}}@media only screen and (max-width:1000px){.add-product .col-ting{width:100%;border-radius:4px;margin:0 auto;margin-top:1em;text-align:center;margin-bottom:1em}.add-product .file-upload .image-box{margin:0;margin-top:1em;width:12em;height:15em;border-radius:4px;display:inline-block;background:#d18332;cursor:pointer;overflow:hidden}.header .center-header{height:auto}.header .center-header .dropdown>a{padding:33px 0;font-size:15px}.header .center-header .dropdown .btn>div{height:28px;width:28px;background:#e8e8e8 0 0 no-repeat padding-box;box-shadow:1px 3px 20px #00000008;border-radius:50px;display:inline-block;transition:.5s}.custom-menu,.custom-menu .nav-link img{height:30px}.shopping-cart.dropdown-menu{width:85vw}.shopping-cart .input-number-wrapper input{width:30%}.site-footer .terms .col-12{margin-bottom:0}.shopping-cart .item-price{width:10%}.header .logo img{width:100%}.bottom-header nav .navbar-nav{display:block;text-align:center}.bottom-header nav .navbar-nav li{padding:5px 0}.search-box:hover>.search-input{width:88%;margin:auto}.search-input{width:88%}.navbar-light .navbar-toggler{position:absolute;left:0;top:2vw}.custom-menu .nav-link.show i{font-size:30px}.search-box{position:relative;top:auto;left:auto;transform:none}.home-banner h1{font-size:2.5em;margin-bottom:25px}.home-banner h3{font-size:1em;margin-bottom:30px}.new-products .product-rate,.products .product-rate{margin-top:5px;padding:10px 0}.first-home .owl-prev{right:0;top:95%}.first-home .owl-next{left:0;top:95%}.add-banner a div{width:100%;height:50vw;overflow:hidden}.add-banner{padding:10px 0}.home-suppliers .second-home{padding:10px 0}.product-card{margin:10px auto!important}.product-rate{text-align:center}}@media only screen and (max-width:990px){.about-img{margin-bottom:30px}}@media only screen and (max-width:768px){.header .center-header,.header .center-header .user-tabs{height:auto;text-align:center}}@media screen and (max-width:640px){.cart-page .basket,.cart-page .item,.cart-page .remove,.cart-page .summary,.cart-page aside{width:100%}.cart-page .basket-labels{display:none}.cart-page .item{margin-bottom:1rem}.cart-page .product-image{width:40%}.cart-page .product-details{width:60%}.cart-page .price,.cart-page .subtotal{width:33%}.cart-page .quantity{text-align:center;width:34%}.cart-page .quantity-field{float:none}.cart-page .remove{bottom:0;text-align:right;margin-top:.75rem;position:relative}.cart-page .remove button{padding:0}.cart-page .summary{margin-top:1.25rem;position:relative}}@media screen and (min-width:641px) and (max-width:960px){.cart-page aside{padding:0 1rem 0 0}.cart-page .summary{width:28%}}@media screen and (max-width:960px){.cart-page main{width:100%}.cart-page .product-details{padding:0 1rem}}@media (max-width:991px){.site-footer [class^=col-]{margin-bottom:30px}}@media (max-width:767px){.site-footer{padding-bottom:0}.site-footer .copyright-text,.site-footer .social-icons{text-align:center}}@media (max-width:767px){.footer-info{text-align:center}.site-footer .social-icons li.title{display:block;margin-right:0;font-weight:600}}
+
+
+
+@media all and (max-width:992px){
+
+    .install-app {
+        position: fixed;
+        bottom: 5rem;
+        left: 0;
+        right: 0;
+        padding: 1rem;
+        z-index: 99;
+        display: block;
+    }
+    .install-app .install-con {
+        background-color: #fff;
+        -webkit-box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 23%);
+        box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 23%);
+        border-radius: 5px;
+        padding: 1rem;
+        position: relative;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        grid-gap: 1rem;
+        gap: 1rem;
+    }
+    .install-app .close {
+        position: absolute;
+        top: 1rem;
+        left: 1rem;
+        width: 1.2rem;
+    }
+    .install-app img.golden-logo {
+        width: 7rem;
+        border-radius: 0.5rem;
+    }
+    .install-app .btn{
+        background: #d18332;
+        color: #fff;
+    }
+}

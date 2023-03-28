@@ -1,0 +1,370 @@
+[03-Jan-2022 18:36:53 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/goldenroad/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 138
+[12-Jan-2022 18:22:01 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/goldenroad/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 138
+[16-Jan-2022 18:53:17 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) in /home/goldenroad/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 138
+[06-Mar-2022 23:13:16 UTC] PHP Warning:  include(/home/goldenroad/public_html/vendor/composer/../laravel/framework/src/Illuminate/Http/Request.php): failed to open stream: No such file or directory in /home/goldenroad/public_html/vendor/composer/ClassLoader.php on line 480
+[06-Mar-2022 23:13:16 UTC] PHP Warning:  include(/home/goldenroad/public_html/vendor/composer/../laravel/framework/src/Illuminate/Http/Request.php): failed to open stream: No such file or directory in /home/goldenroad/public_html/vendor/composer/ClassLoader.php on line 480
+[06-Mar-2022 23:13:16 UTC] PHP Warning:  include(): Failed opening '/home/goldenroad/public_html/vendor/composer/../laravel/framework/src/Illuminate/Http/Request.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/goldenroad/public_html/vendor/composer/ClassLoader.php on line 480
+[06-Mar-2022 23:13:16 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home/goldenroad/public_html/public/index.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/goldenroad/public_html/public/index.php on line 55
+[06-Mar-2022 23:13:16 UTC] PHP Warning:  require(/home/goldenroad/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:16 UTC] PHP Warning:  require(/home/goldenroad/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:16 UTC] PHP Fatal error:  require(): Failed opening required '/home/goldenroad/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:18 UTC] PHP Warning:  require(/home/goldenroad/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:18 UTC] PHP Warning:  require(/home/goldenroad/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:18 UTC] PHP Fatal error:  require(): Failed opening required '/home/goldenroad/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:21 UTC] PHP Warning:  require(/home/goldenroad/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:21 UTC] PHP Warning:  require(/home/goldenroad/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:21 UTC] PHP Fatal error:  require(): Failed opening required '/home/goldenroad/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:21 UTC] PHP Warning:  require(/home/goldenroad/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:21 UTC] PHP Warning:  require(/home/goldenroad/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:21 UTC] PHP Fatal error:  require(): Failed opening required '/home/goldenroad/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:23 UTC] PHP Warning:  require(/home/goldenroad/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:23 UTC] PHP Warning:  require(/home/goldenroad/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:23 UTC] PHP Fatal error:  require(): Failed opening required '/home/goldenroad/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:25 UTC] PHP Warning:  require(/home/goldenroad/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:25 UTC] PHP Warning:  require(/home/goldenroad/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:25 UTC] PHP Fatal error:  require(): Failed opening required '/home/goldenroad/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:26 UTC] PHP Warning:  require(/home/goldenroad/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:26 UTC] PHP Warning:  require(/home/goldenroad/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:26 UTC] PHP Fatal error:  require(): Failed opening required '/home/goldenroad/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:28 UTC] PHP Warning:  require(/home/goldenroad/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:28 UTC] PHP Warning:  require(/home/goldenroad/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:28 UTC] PHP Fatal error:  require(): Failed opening required '/home/goldenroad/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:31 UTC] PHP Warning:  require(/home/goldenroad/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:31 UTC] PHP Warning:  require(/home/goldenroad/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:31 UTC] PHP Fatal error:  require(): Failed opening required '/home/goldenroad/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:33 UTC] PHP Warning:  require(/home/goldenroad/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:33 UTC] PHP Warning:  require(/home/goldenroad/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:33 UTC] PHP Fatal error:  require(): Failed opening required '/home/goldenroad/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:35 UTC] PHP Warning:  require(/home/goldenroad/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:35 UTC] PHP Warning:  require(/home/goldenroad/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:35 UTC] PHP Fatal error:  require(): Failed opening required '/home/goldenroad/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:39 UTC] PHP Warning:  require(/home/goldenroad/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:39 UTC] PHP Warning:  require(/home/goldenroad/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:39 UTC] PHP Fatal error:  require(): Failed opening required '/home/goldenroad/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:40 UTC] PHP Warning:  require(/home/goldenroad/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:40 UTC] PHP Warning:  require(/home/goldenroad/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:40 UTC] PHP Fatal error:  require(): Failed opening required '/home/goldenroad/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:41 UTC] PHP Warning:  require(/home/goldenroad/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:41 UTC] PHP Warning:  require(/home/goldenroad/public_html/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/goldenroad/public_html/public/index.php on line 24
+[06-Mar-2022 23:13:41 UTC] PHP Fatal error:  require(): Failed opening required '/home/goldenroad/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/goldenroad/public_html/public/index.php on line 24
+[07-Mar-2022 02:13:47 Asia/Riyadh] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('view')
+#1 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('view')
+#2 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make('view', Array)
+#5 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Con in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[07-Mar-2022 02:13:47 Asia/Riyadh] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('view')
+#1 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('view')
+#2 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make('view', Array)
+#5 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Con in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[07-Mar-2022 02:13:53 Asia/Riyadh] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('view')
+#1 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('view')
+#2 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make('view', Array)
+#5 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Con in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[07-Mar-2022 02:13:54 Asia/Riyadh] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('view')
+#1 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('view')
+#2 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make('view', Array)
+#5 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Con in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[07-Mar-2022 02:13:55 Asia/Riyadh] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('view')
+#1 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('view')
+#2 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make('view', Array)
+#5 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Con in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[07-Mar-2022 02:13:56 Asia/Riyadh] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('view')
+#1 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('view')
+#2 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make('view', Array)
+#5 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Con in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[07-Mar-2022 02:13:57 Asia/Riyadh] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('view')
+#1 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('view')
+#2 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make('view', Array)
+#5 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Con in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[07-Mar-2022 02:14:02 Asia/Riyadh] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('view')
+#1 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('view')
+#2 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make('view', Array)
+#5 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Con in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[07-Mar-2022 02:14:02 Asia/Riyadh] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('view')
+#1 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('view')
+#2 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make('view', Array)
+#5 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Con in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[07-Mar-2022 02:14:03 Asia/Riyadh] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('view')
+#1 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('view')
+#2 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make('view', Array)
+#5 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Con in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[07-Mar-2022 02:14:09 Asia/Riyadh] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('view')
+#1 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('view')
+#2 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make('view', Array)
+#5 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Con in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[07-Mar-2022 02:14:13 Asia/Riyadh] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('view')
+#1 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('view')
+#2 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make('view', Array)
+#5 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Con in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[07-Mar-2022 02:15:23 Asia/Riyadh] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('view')
+#1 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('view')
+#2 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make('view', Array)
+#5 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Con in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[07-Mar-2022 02:16:53 Asia/Riyadh] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('view')
+#1 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('view')
+#2 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make('view', Array)
+#5 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Con in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[07-Mar-2022 02:17:10 Asia/Riyadh] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('view')
+#1 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('view')
+#2 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make('view', Array)
+#5 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Con in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[07-Mar-2022 02:18:17 Asia/Riyadh] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('view')
+#1 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('view')
+#2 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make('view', Array)
+#5 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Con in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[07-Mar-2022 02:18:28 Asia/Riyadh] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('view')
+#1 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('view')
+#2 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make('view', Array)
+#5 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Con in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[07-Mar-2022 02:18:33 Asia/Riyadh] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('view')
+#1 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('view')
+#2 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('view', Array, true)
+#3 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve('view', Array)
+#4 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make('view', Array)
+#5 /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Con in /home/goldenroad/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879
+[05-Apr-2022 13:42:59 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/goldenroad/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[05-Apr-2022 13:43:37 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/goldenroad/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[05-Apr-2022 13:47:27 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/goldenroad/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[07-Apr-2022 15:29:39 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/goldenroad/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[14-Apr-2022 21:57:16 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28672 bytes) in /home/goldenroad/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[14-Apr-2022 21:57:37 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28672 bytes) in /home/goldenroad/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[14-Apr-2022 21:58:15 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28672 bytes) in /home/goldenroad/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[14-Apr-2022 21:59:28 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28672 bytes) in /home/goldenroad/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[14-Apr-2022 22:01:06 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28672 bytes) in /home/goldenroad/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[14-Apr-2022 22:03:40 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 28672 bytes) in /home/goldenroad/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[15-May-2022 15:38:26 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/goldenroad/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[15-May-2022 15:40:23 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/goldenroad/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[05-Jun-2022 17:58:35 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) in /home/goldenroad/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[05-Jun-2022 17:59:03 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) in /home/goldenroad/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[05-Jun-2022 17:59:17 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) in /home/goldenroad/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[05-Jun-2022 18:00:29 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/goldenroad/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[05-Jun-2022 18:00:40 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/goldenroad/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[05-Jun-2022 18:56:44 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) in /home/goldenroad/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[05-Jun-2022 18:57:46 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/goldenroad/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[05-Jun-2022 18:58:12 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/goldenroad/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[07-Jun-2022 03:41:44 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 03:41:44 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 03:41:44 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 04:19:06 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 04:19:06 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 04:19:06 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 04:36:10 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 04:36:10 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 04:36:10 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 04:50:51 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 04:50:51 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 04:50:51 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 04:57:18 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 04:57:18 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 04:57:18 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 04:58:49 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 04:58:49 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 04:58:49 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 06:01:51 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 06:01:51 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 06:01:51 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 06:05:02 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 06:05:02 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 06:05:02 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 06:12:24 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 06:12:24 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 06:12:24 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 06:37:46 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 06:37:46 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 06:37:46 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 06:45:43 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 06:45:43 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 06:45:43 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 07:13:31 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 07:13:31 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 07:13:31 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 07:28:42 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 07:28:42 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 07:28:42 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 07:44:34 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 07:44:34 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 07:44:34 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 07:59:22 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 07:59:22 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 07:59:22 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 08:09:05 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 08:09:05 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 08:09:05 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 08:11:47 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 08:11:47 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 08:11:47 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 08:26:22 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 08:26:22 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 08:26:22 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 08:42:02 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 08:42:02 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 08:42:02 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 08:56:51 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 08:56:51 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 08:56:51 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 08:58:41 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 08:58:41 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 08:58:41 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 09:03:20 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 09:03:20 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 09:03:20 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 09:21:59 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 09:21:59 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 09:21:59 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 09:31:48 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 09:31:48 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 09:31:48 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 10:22:25 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 10:22:25 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 10:22:25 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 10:26:17 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 10:26:17 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 10:26:17 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 10:55:07 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 10:55:07 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 10:55:07 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 11:14:30 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 11:14:30 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 11:14:30 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 11:16:50 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 11:16:50 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 11:16:50 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 11:27:10 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 11:27:10 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 11:27:10 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 11:32:24 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 11:32:24 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 11:32:24 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 11:47:26 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 11:47:26 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 11:47:26 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 11:54:50 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 11:54:50 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 11:54:50 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 12:14:25 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 12:14:25 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 12:14:25 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 12:45:33 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 12:45:33 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 12:45:33 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 12:49:43 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 12:49:43 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 12:49:43 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 13:11:04 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 13:11:04 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 13:11:04 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 13:21:24 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 13:21:24 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 13:21:24 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 13:23:26 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 13:23:26 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 13:23:26 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 13:58:58 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 13:58:58 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 13:58:58 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 14:01:07 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 14:01:07 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 14:01:07 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 14:05:10 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 14:05:10 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 14:05:10 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 14:10:47 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 14:10:47 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 14:10:47 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[07-Jun-2022 14:44:56 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 688
+[07-Jun-2022 14:44:56 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 726
+[07-Jun-2022 14:44:56 Asia/Riyadh] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/goldenroad/public_html/app/Http/Controllers/Api/AuthenticateController.php on line 992
+[13-Jun-2022 15:46:11 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 33566720 bytes) in /home/goldenroad/public_html/storage/framework/views/12c97c850e16a7baae5e1a9defcd27a5499b976b.php on line 256
+[13-Jun-2022 15:48:48 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 35663872 bytes) in /home/goldenroad/public_html/storage/framework/views/12c97c850e16a7baae5e1a9defcd27a5499b976b.php on line 256
+[13-Jun-2022 15:50:34 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 39858176 bytes) in /home/goldenroad/public_html/storage/framework/views/12c97c850e16a7baae5e1a9defcd27a5499b976b.php on line 256
+[31-Jul-2022 10:15:53 Asia/Riyadh] PHP Fatal error:  Declaration of App\Exports\ProductsExport::view(): Illuminate\View\View must be compatible with Maatwebsite\Excel\Concerns\FromView::view(): Illuminate\Contracts\View\View in /home/goldenroad/public_html/app/Exports/ProductsExport.php on line 9
+[31-Jul-2022 10:16:09 Asia/Riyadh] PHP Fatal error:  Declaration of App\Exports\ProductsExport::view(): Illuminate\View\View must be compatible with Maatwebsite\Excel\Concerns\FromView::view(): Illuminate\Contracts\View\View in /home/goldenroad/public_html/app/Exports/ProductsExport.php on line 9
+[31-Jul-2022 10:16:14 Asia/Riyadh] PHP Fatal error:  Declaration of App\Exports\ProductsExport::view(): Illuminate\View\View must be compatible with Maatwebsite\Excel\Concerns\FromView::view(): Illuminate\Contracts\View\View in /home/goldenroad/public_html/app/Exports/ProductsExport.php on line 9
+[31-Jul-2022 10:16:54 Asia/Riyadh] PHP Fatal error:  Declaration of App\Exports\ProductsExport::view(): Illuminate\View\View must be compatible with Maatwebsite\Excel\Concerns\FromView::view(): Illuminate\Contracts\View\View in /home/goldenroad/public_html/app/Exports/ProductsExport.php on line 9
+[31-Jul-2022 10:16:56 Asia/Riyadh] PHP Fatal error:  Declaration of App\Exports\ProductsExport::view(): Illuminate\View\View must be compatible with Maatwebsite\Excel\Concerns\FromView::view(): Illuminate\Contracts\View\View in /home/goldenroad/public_html/app/Exports/ProductsExport.php on line 9
+[14-Aug-2022 12:32:37 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/goldenroad/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[14-Aug-2022 12:33:56 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/goldenroad/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[14-Aug-2022 12:35:37 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/goldenroad/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[06-Sep-2022 15:29:41 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) in /home/goldenroad/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[06-Sep-2022 15:34:14 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) in /home/goldenroad/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[06-Sep-2022 15:38:12 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) in /home/goldenroad/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[11-Sep-2022 19:30:24 Asia/Riyadh] PHP Fatal error:  Trait 'MFrouh\ScopeStatistics\Traits\ScopeStatistics' not found in /home/goldenroad/public_html/app/Models/Orders.php on line 18
+[11-Sep-2022 19:30:28 Asia/Riyadh] PHP Fatal error:  Trait 'MFrouh\ScopeStatistics\Traits\ScopeStatistics' not found in /home/goldenroad/public_html/app/Models/Orders.php on line 18
+[11-Sep-2022 19:30:56 Asia/Riyadh] PHP Fatal error:  Trait 'MFrouh\ScopeStatistics\Traits\ScopeStatistics' not found in /home/goldenroad/public_html/app/Models/Orders.php on line 18
+[11-Sep-2022 19:31:06 Asia/Riyadh] PHP Fatal error:  Trait 'MFrouh\ScopeStatistics\Traits\ScopeStatistics' not found in /home/goldenroad/public_html/app/Models/Orders.php on line 18
+[11-Sep-2022 19:31:10 Asia/Riyadh] PHP Fatal error:  Trait 'MFrouh\ScopeStatistics\Traits\ScopeStatistics' not found in /home/goldenroad/public_html/app/Models/Orders.php on line 18
+[11-Sep-2022 19:31:10 Asia/Riyadh] PHP Fatal error:  Trait 'MFrouh\ScopeStatistics\Traits\ScopeStatistics' not found in /home/goldenroad/public_html/app/Models/Orders.php on line 18
+[11-Sep-2022 19:31:15 Asia/Riyadh] PHP Fatal error:  Trait 'MFrouh\ScopeStatistics\Traits\ScopeStatistics' not found in /home/goldenroad/public_html/app/Models/Orders.php on line 18
+[11-Sep-2022 19:31:21 Asia/Riyadh] PHP Fatal error:  Trait 'MFrouh\ScopeStatistics\Traits\ScopeStatistics' not found in /home/goldenroad/public_html/app/Models/Orders.php on line 18
